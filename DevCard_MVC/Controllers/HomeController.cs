@@ -17,13 +17,14 @@ namespace DevCard_MVC.Controllers
         {
             _logger = logger;
         }
-
+        [Route("/Index")]
+        [Route("/")]
         public IActionResult Index()
         {
             return View();
         }
-
-        public IActionResult Privacy()
+        [Route("/ContactUs")]
+        public IActionResult ContactUs()
         {
             return View();
         }
