@@ -395,3 +395,5 @@ C:\Users\A\Source\Repos\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Micr
 C:\Users\A\Source\Repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
 C:\Users\A\Source\Repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
 C:\Users\A\Source\Repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs
+C:\Users\A\Source\Repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\A\Source\Repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
