@@ -23,9 +23,24 @@ namespace DevCard_MVC.Controllers
         {
             return View();
         }
+
+        [HttpGet]
         [Route("/ContactUs")]
         public IActionResult ContactUs()
         {
+            var form = new Contact();
+            return View(form);
+        }
+
+        [HttpPost]
+        [Route("/ContactUs")]
+        public IActionResult ContactUs(Contact form)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(form);
+            }
+
             return View();
         }
 
